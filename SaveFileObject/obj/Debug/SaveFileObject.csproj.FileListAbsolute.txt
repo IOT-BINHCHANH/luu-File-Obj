@@ -1,0 +1,9 @@
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\bin\Debug\SaveFileObject.exe
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\bin\Debug\SaveFileObject.pdb
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.Form1.resources
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.Properties.Resources.resources
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.exe
+C:\Users\hoang\source\repos\SaveFileObject\SaveFileObject\obj\Debug\SaveFileObject.pdb
